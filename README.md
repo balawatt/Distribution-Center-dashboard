@@ -1,4 +1,4 @@
-## Deploy Logistics Operational Dashboards using DataPane 🚚
+## Deploy Logistics Operational Dashboards in DC space using DataPane 🚚
 *Deploy Reporting Solutions using DataPane to Support Warehousing Logistics Operations for E-Commerce*
 
 <p align="center">
